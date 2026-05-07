@@ -77,7 +77,7 @@ Tem sugestões? Abra uma issue ou PR!
 
 ## 📄 Licença
 
-MIT
+
 
 ---
 
